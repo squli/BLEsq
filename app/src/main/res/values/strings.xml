@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BLEsq</string>
+    <string name="action_settings">Settings</string>
+    <string name="read_char_value_button_title">R</string>
+    <string name="notify_char_value_button_title">N</string>
+    <string name="write_char_value_button_title">W</string>
+</resources>

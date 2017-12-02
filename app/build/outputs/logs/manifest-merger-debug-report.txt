@@ -1,0 +1,135 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\1\AndroidStudioProjects\BLEsq\app\src\main\AndroidManifest.xml:2:1-44:12
+	package
+		ADDED from C:\Users\1\AndroidStudioProjects\BLEsq\app\src\main\AndroidManifest.xml:3:5-29
+		INJECTED from C:\Users\1\AndroidStudioProjects\BLEsq\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\1\AndroidStudioProjects\BLEsq\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\1\AndroidStudioProjects\BLEsq\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\1\AndroidStudioProjects\BLEsq\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\1\AndroidStudioProjects\BLEsq\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from C:\Users\1\AndroidStudioProjects\BLEsq\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\1\AndroidStudioProjects\BLEsq\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.BLUETOOTH
+ADDED from C:\Users\1\AndroidStudioProjects\BLEsq\app\src\main\AndroidManifest.xml:5:5-68
+	android:name
+		ADDED from C:\Users\1\AndroidStudioProjects\BLEsq\app\src\main\AndroidManifest.xml:5:22-65
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from C:\Users\1\AndroidStudioProjects\BLEsq\app\src\main\AndroidManifest.xml:6:5-74
+	android:name
+		ADDED from C:\Users\1\AndroidStudioProjects\BLEsq\app\src\main\AndroidManifest.xml:6:22-71
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from C:\Users\1\AndroidStudioProjects\BLEsq\app\src\main\AndroidManifest.xml:7:5-81
+	android:name
+		ADDED from C:\Users\1\AndroidStudioProjects\BLEsq\app\src\main\AndroidManifest.xml:7:22-78
+uses-feature#android.hardware.bluetooth_le
+ADDED from C:\Users\1\AndroidStudioProjects\BLEsq\app\src\main\AndroidManifest.xml:9:5-11:35
+	android:required
+		ADDED from C:\Users\1\AndroidStudioProjects\BLEsq\app\src\main\AndroidManifest.xml:11:9-32
+	android:name
+		ADDED from C:\Users\1\AndroidStudioProjects\BLEsq\app\src\main\AndroidManifest.xml:10:9-53
+application
+ADDED from C:\Users\1\AndroidStudioProjects\BLEsq\app\src\main\AndroidManifest.xml:13:5-42:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\1\.android\build-cache\c94debf4cfae6b77d1eeb5d785967bbf01db5a71\output\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:design:26.0.0-alpha1] C:\Users\1\.android\build-cache\a8146a7e4d25521c57e0bd96d2dc9e09691e61ac\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\1\.android\build-cache\8e3bfb214290c0612fd51a214b261dc0b4e45b87\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\1\.android\build-cache\bb979e722bf0d23a72c9330c81b267d9a8941a8b\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\1\.android\build-cache\76c7ce717e6bfcf656f1fd0d0d3c4d85891a0427\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:transition:26.0.0-alpha1] C:\Users\1\.android\build-cache\38f7995ffbdf5b8b6584d983dd58258affad3e08\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\1\.android\build-cache\d6eaa787597ce2db27725ed8da09349b97ecdd69\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\1\.android\build-cache\f3c272c47d029fd30c77f6646331aed293842fca\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\1\.android\build-cache\0eab44b106bf8a0bca8a13fbe98d794ae718c444\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\1\.android\build-cache\51bef6802f4edc9971ec8eef3ccc705fc3d69e59\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\1\.android\build-cache\6eba5f8be8abb0d03953bbc7610c9896557ca42c\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\1\.android\build-cache\dd369d325471d130f15d2b749cde814a860313cd\output\AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from C:\Users\1\AndroidStudioProjects\BLEsq\app\src\main\AndroidManifest.xml:16:9-41
+	android:supportsRtl
+		ADDED from C:\Users\1\AndroidStudioProjects\BLEsq\app\src\main\AndroidManifest.xml:18:9-35
+	android:roundIcon
+		ADDED from C:\Users\1\AndroidStudioProjects\BLEsq\app\src\main\AndroidManifest.xml:17:9-54
+	android:allowBackup
+		ADDED from C:\Users\1\AndroidStudioProjects\BLEsq\app\src\main\AndroidManifest.xml:14:9-35
+	android:icon
+		ADDED from C:\Users\1\AndroidStudioProjects\BLEsq\app\src\main\AndroidManifest.xml:15:9-43
+	android:theme
+		ADDED from C:\Users\1\AndroidStudioProjects\BLEsq\app\src\main\AndroidManifest.xml:19:9-40
+activity#ru.squel.blesq.MainActivity.MainActivity
+ADDED from C:\Users\1\AndroidStudioProjects\BLEsq\app\src\main\AndroidManifest.xml:20:9-30:20
+	android:screenOrientation
+		ADDED from C:\Users\1\AndroidStudioProjects\BLEsq\app\src\main\AndroidManifest.xml:24:13-49
+	android:label
+		ADDED from C:\Users\1\AndroidStudioProjects\BLEsq\app\src\main\AndroidManifest.xml:22:13-45
+	android:theme
+		ADDED from C:\Users\1\AndroidStudioProjects\BLEsq\app\src\main\AndroidManifest.xml:23:13-56
+	android:name
+		ADDED from C:\Users\1\AndroidStudioProjects\BLEsq\app\src\main\AndroidManifest.xml:21:13-54
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\1\AndroidStudioProjects\BLEsq\app\src\main\AndroidManifest.xml:25:13-29:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\1\AndroidStudioProjects\BLEsq\app\src\main\AndroidManifest.xml:26:17-69
+	android:name
+		ADDED from C:\Users\1\AndroidStudioProjects\BLEsq\app\src\main\AndroidManifest.xml:26:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\1\AndroidStudioProjects\BLEsq\app\src\main\AndroidManifest.xml:28:17-77
+	android:name
+		ADDED from C:\Users\1\AndroidStudioProjects\BLEsq\app\src\main\AndroidManifest.xml:28:27-74
+activity#ru.squel.blesq.DetailActivity.DetailActivity
+ADDED from C:\Users\1\AndroidStudioProjects\BLEsq\app\src\main\AndroidManifest.xml:32:9-40:20
+	android:screenOrientation
+		ADDED from C:\Users\1\AndroidStudioProjects\BLEsq\app\src\main\AndroidManifest.xml:36:13-49
+	android:label
+		ADDED from C:\Users\1\AndroidStudioProjects\BLEsq\app\src\main\AndroidManifest.xml:34:13-45
+	android:theme
+		ADDED from C:\Users\1\AndroidStudioProjects\BLEsq\app\src\main\AndroidManifest.xml:35:13-56
+	android:name
+		ADDED from C:\Users\1\AndroidStudioProjects\BLEsq\app\src\main\AndroidManifest.xml:33:13-58
+meta-data#android.support.PARENT_ACTIVITY
+ADDED from C:\Users\1\AndroidStudioProjects\BLEsq\app\src\main\AndroidManifest.xml:37:13-39:76
+	android:value
+		ADDED from C:\Users\1\AndroidStudioProjects\BLEsq\app\src\main\AndroidManifest.xml:39:17-73
+	android:name
+		ADDED from C:\Users\1\AndroidStudioProjects\BLEsq\app\src\main\AndroidManifest.xml:38:17-63
+uses-sdk
+INJECTED from C:\Users\1\AndroidStudioProjects\BLEsq\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\1\.android\build-cache\c94debf4cfae6b77d1eeb5d785967bbf01db5a71\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:design:26.0.0-alpha1] C:\Users\1\.android\build-cache\a8146a7e4d25521c57e0bd96d2dc9e09691e61ac\output\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\1\.android\build-cache\8e3bfb214290c0612fd51a214b261dc0b4e45b87\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\1\.android\build-cache\bb979e722bf0d23a72c9330c81b267d9a8941a8b\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\1\.android\build-cache\76c7ce717e6bfcf656f1fd0d0d3c4d85891a0427\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] C:\Users\1\.android\build-cache\f7dd20f4eb352f33d5541dc4710f5e74aea5c209\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:26.0.0-alpha1] C:\Users\1\.android\build-cache\38f7995ffbdf5b8b6584d983dd58258affad3e08\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\1\.android\build-cache\d6eaa787597ce2db27725ed8da09349b97ecdd69\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\1\.android\build-cache\f3c272c47d029fd30c77f6646331aed293842fca\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\1\.android\build-cache\0eab44b106bf8a0bca8a13fbe98d794ae718c444\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\1\.android\build-cache\51bef6802f4edc9971ec8eef3ccc705fc3d69e59\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\1\.android\build-cache\6eba5f8be8abb0d03953bbc7610c9896557ca42c\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\1\.android\build-cache\dd369d325471d130f15d2b749cde814a860313cd\output\AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:26.0.0-alpha1] C:\Users\1\.android\build-cache\a8146a7e4d25521c57e0bd96d2dc9e09691e61ac\output\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from C:\Users\1\AndroidStudioProjects\BLEsq\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\1\AndroidStudioProjects\BLEsq\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\1\AndroidStudioProjects\BLEsq\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\1\AndroidStudioProjects\BLEsq\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:26.0.0-alpha1] C:\Users\1\.android\build-cache\a8146a7e4d25521c57e0bd96d2dc9e09691e61ac\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\1\.android\build-cache\8e3bfb214290c0612fd51a214b261dc0b4e45b87\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\1\.android\build-cache\bb979e722bf0d23a72c9330c81b267d9a8941a8b\output\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\1\.android\build-cache\76c7ce717e6bfcf656f1fd0d0d3c4d85891a0427\output\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] C:\Users\1\.android\build-cache\f7dd20f4eb352f33d5541dc4710f5e74aea5c209\output\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:transition:26.0.0-alpha1] C:\Users\1\.android\build-cache\38f7995ffbdf5b8b6584d983dd58258affad3e08\output\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\1\.android\build-cache\d6eaa787597ce2db27725ed8da09349b97ecdd69\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\1\.android\build-cache\f3c272c47d029fd30c77f6646331aed293842fca\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\1\.android\build-cache\0eab44b106bf8a0bca8a13fbe98d794ae718c444\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\1\.android\build-cache\51bef6802f4edc9971ec8eef3ccc705fc3d69e59\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\1\.android\build-cache\6eba5f8be8abb0d03953bbc7610c9896557ca42c\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\1\.android\build-cache\dd369d325471d130f15d2b749cde814a860313cd\output\AndroidManifest.xml:25:5-27:41
+	android:value
+		ADDED from [com.android.support:design:26.0.0-alpha1] C:\Users\1\.android\build-cache\a8146a7e4d25521c57e0bd96d2dc9e09691e61ac\output\AndroidManifest.xml:27:9-38
+	android:name
+		ADDED from [com.android.support:design:26.0.0-alpha1] C:\Users\1\.android\build-cache\a8146a7e4d25521c57e0bd96d2dc9e09691e61ac\output\AndroidManifest.xml:26:9-47
